@@ -1,1 +1,1 @@
-# singleton_test
+# singleton_type
